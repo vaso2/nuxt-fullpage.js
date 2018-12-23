@@ -2,6 +2,15 @@
   "name": "nuxt-fullpage.js",
   "version": "0.0.1",
   "description": "Nuxt module for fullpage.js library",
+  "keywords": [
+    "vue",
+    "nuxt",
+    "fullpage",
+    "fullpagejs",
+    "scroll",
+    "sections",
+    "slidehow"
+  ],
   "license": "MIT",
   "contributors": [
     {
