@@ -50,7 +50,7 @@ Otherwise this fullpage module is excellent, have fun!
 
 ## License
 
-MIT, made by [GALSD Web Development](https://galsd.com/)
+GPL-3.0, made by [GALSD Web Development](https://galsd.com/)
 
 <!-- Badges -->
 [npm-downloads-src]: https://img.shields.io/npm/dt/nuxt-fullpage.js.svg?style=flat-square
