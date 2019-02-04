@@ -1,6 +1,6 @@
 {
   "name": "nuxt-fullpage.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Nuxt module for fullpage.js library",
   "keywords": [
     "vue",
